@@ -1,0 +1,22 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 40px;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+strong {
+    font-weight: bold;
+}
